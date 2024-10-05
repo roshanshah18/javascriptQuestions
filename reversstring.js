@@ -9,3 +9,10 @@ function reversestring(string) {
 }
 let string = "Roshan".split("");
 console.log(reversestring(string));
+
+// function reverse() {
+//   const Name = "Roshan".split("");
+//   let firstresult = Name.reverse();
+//   console.log(firstresult);
+// }
+// reverse();
