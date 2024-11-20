@@ -13,3 +13,14 @@ function palindrome(string) {
 }
 const string = "tat".toLowerCase().split("");
 palindrome(string);
+
+// function palindrome(string) {
+//   const newstring = string.toReversed();
+//   if (newstring.join("") === string.join("")) {
+//     console.log("It is a palindrome");
+//   } else {
+//     console.log("It is not a palindrome");
+//   }
+// }
+// const string = "tat".toLowerCase().split("");
+// palindrome(string);
